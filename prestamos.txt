@@ -1,0 +1,7 @@
+---------PRESTAMOS---------
+Usuario: Christopher Lopez
+Codigo Material: 101
+Material: Boulevard
+Fecha Prestamo: 21/11/2026
+Fecha Devolucion: 22/11/2026
+---------------------------
